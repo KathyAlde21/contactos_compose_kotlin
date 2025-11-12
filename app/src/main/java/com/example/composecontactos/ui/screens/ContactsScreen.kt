@@ -18,8 +18,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import dev.bootcamp.contactoscompose.data.Contact
-import dev.bootcamp.contactoscompose.ui.components.ContactItem
+import com.example.composecontactos.data.Contact
+import com.example.composecontactos.ui.components.ContactItem
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
